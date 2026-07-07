@@ -1,0 +1,1280 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pulsera Gémina",
+    "unidades": 0,
+    "precioBase": 38.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 2,
+    "nombre": "Pendientes Alería Rouge",
+    "unidades": 0,
+    "precioBase": 24.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 3,
+    "nombre": "Labial Líquido Efecto Metalizado Terra Cobrizo",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 4,
+    "nombre": "Paleta de Sombras Special Edition",
+    "unidades": 0,
+    "precioBase": 45.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 5,
+    "nombre": "Total Block Ultraprotección SPF 50+",
+    "unidades": 0,
+    "precioBase": 32.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1556229010-aa3f7ff66b24?w=400"
+  },
+  {
+    "id": 6,
+    "nombre": "Bolsa Regalo Mujer",
+    "unidades": 0,
+    "precioBase": 3.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=400"
+  },
+  {
+    "id": 7,
+    "nombre": "Sérum Reafirmante Antigravedad Genactive",
+    "unidades": 0,
+    "precioBase": 55.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1608248597481-496100c80836?w=400"
+  },
+  {
+    "id": 8,
+    "nombre": "Iron Infinity Máscara Metálica Alargadora",
+    "unidades": 0,
+    "precioBase": 20.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1631214524020-5e18d0165425?w=400"
+  },
+  {
+    "id": 9,
+    "nombre": "Liberatta Edición Limitada Parfum",
+    "unidades": 0,
+    "precioBase": 68.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 10,
+    "nombre": "Set de 2 Cremas para Manos Body Spa Edición Limitada",
+    "unidades": 0,
+    "precioBase": 15.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=400"
+  },
+  {
+    "id": 11,
+    "nombre": "Extracto Divino Limpiador en Espuma",
+    "unidades": 0,
+    "precioBase": 28.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+  },
+  {
+    "id": 12,
+    "nombre": "Extracto Divino Hidratante Reparador Intensivo SPF 20",
+    "unidades": 0,
+    "precioBase": 48.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+  },
+  {
+    "id": 13,
+    "nombre": "Elixir de Vida Crema Rejuvenecedora para Rostro",
+    "unidades": 0,
+    "precioBase": 52.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=400"
+  },
+  {
+    "id": 14,
+    "nombre": "Aqua Fix Gel Ultra Hidratante",
+    "unidades": 0,
+    "precioBase": 26.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400"
+  },
+  {
+    "id": 15,
+    "nombre": "Suero Antimanchas",
+    "unidades": 0,
+    "precioBase": 35.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1620917670397-dc7bc40ae38e?w=400"
+  },
+  {
+    "id": 16,
+    "nombre": "Sensi Derm Leche Limpiadora para Piel Sensible",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=400"
+  },
+  {
+    "id": 17,
+    "nombre": "Sensi Derm Crema Hidratante Ligera para Piel Sensible",
+    "unidades": 0,
+    "precioBase": 28.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400"
+  },
+  {
+    "id": 18,
+    "nombre": "Mascarilla Rejuvenecedora Antifatiga para Ojos",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1617897903246-719242758050?w=400"
+  },
+  {
+    "id": 19,
+    "nombre": "Gel Desmaquillador para Ojos y Pestañas",
+    "unidades": 0,
+    "precioBase": 16.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=400"
+  },
+  {
+    "id": 20,
+    "nombre": "BB Lips Natural",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1603138379659-3fb7cf795c62?w=400"
+  },
+  {
+    "id": 21,
+    "nombre": "BB Lips Natural Pink",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 22,
+    "nombre": "BB Lips Black Cherry",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1602513470716-e58f0003b8cc?w=400"
+  },
+  {
+    "id": 23,
+    "nombre": "BB Cream Hidratante",
+    "unidades": 0,
+    "precioBase": 24.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400"
+  },
+  {
+    "id": 24,
+    "nombre": "BB Cream Matificante",
+    "unidades": 0,
+    "precioBase": 24.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400"
+  },
+  {
+    "id": 25,
+    "nombre": "Total Block Ultraprotección SPF 50+ Matificante",
+    "unidades": 0,
+    "precioBase": 32.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1556229010-aa3f7ff66b24?w=400"
+  },
+  {
+    "id": 26,
+    "nombre": "Total Block Ultraprotección SPF 50+ Matificante con Color",
+    "unidades": 0,
+    "precioBase": 34.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1556229010-aa3f7ff66b24?w=400"
+  },
+  {
+    "id": 27,
+    "nombre": "Total Block Mineral Compacto SPF 50",
+    "unidades": 0,
+    "precioBase": 36.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 28,
+    "nombre": "Total Block Mineral SPF 50",
+    "unidades": 0,
+    "precioBase": 32.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1556229010-aa3f7ff66b24?w=400"
+  },
+  {
+    "id": 29,
+    "nombre": "Total Block Dermafusión Fluido con Color SPF 50+",
+    "unidades": 0,
+    "precioBase": 35.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1556229010-aa3f7ff66b24?w=400"
+  },
+  {
+    "id": 30,
+    "nombre": "Body Spa Cacao Crema para Cuerpo",
+    "unidades": 0,
+    "precioBase": 20.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1608248597481-496100c80836?w=400"
+  },
+  {
+    "id": 31,
+    "nombre": "Blum Crema Moldeadora de Rizos",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=400"
+  },
+  {
+    "id": 32,
+    "nombre": "Blum Gel Fijador de Rizos",
+    "unidades": 0,
+    "precioBase": 16.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=400"
+  },
+  {
+    "id": 33,
+    "nombre": "Labial Líquido Efecto Metalizado Metalic Malva",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 34,
+    "nombre": "Labial Líquido Efecto Metalizado Rojo Paladio",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 35,
+    "nombre": "Iluminador Líquido Rostro y Cuerpo Bronze Glow",
+    "unidades": 0,
+    "precioBase": 26.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 36,
+    "nombre": "Polvos Compactos Antiedad",
+    "unidades": 0,
+    "precioBase": 28.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 37,
+    "nombre": "Uniquecil Ultra Resist Máscara",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1631214524020-5e18d0165425?w=400"
+  },
+  {
+    "id": 38,
+    "nombre": "Eyeliner Rotulador Líquido Tattoo",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=400"
+  },
+  {
+    "id": 39,
+    "nombre": "Dúo de Ojos y Cejas",
+    "unidades": 0,
+    "precioBase": 20.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 40,
+    "nombre": "Perfilador Retráctil para Labios",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 41,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Ruby Shine",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 42,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Blush Glow",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 43,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Glow Honey",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 44,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Latte Vibes",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 45,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Vino Bomb",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 46,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Dream Rose",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 47,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Nude Lips",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 48,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Iconic 67",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 49,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Red Bloom",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 50,
+    "nombre": "Hydra-Lip Brillo Labial Volumen Fucsia Bold",
+    "unidades": 0,
+    "precioBase": 17.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 51,
+    "nombre": "Hydra-Lip Labial Líquido Mate Malvalatte",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 52,
+    "nombre": "Hydra-Lip Labial Líquido Mate Caramel Nude",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 53,
+    "nombre": "Hydra-Lip Labial Líquido Mate Lola Rose",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 54,
+    "nombre": "Hydra-Lip Labial Líquido Mate So Fucsia",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 55,
+    "nombre": "Hydra-Lip Labial Líquido Mate Berry Diva",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 56,
+    "nombre": "Hydra-Lip Labial Líquido Mate Oh My Wine",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 57,
+    "nombre": "Hydra-Lip Labial Líquido Mate Capuccino",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 58,
+    "nombre": "Hydra-Lip Labial Líquido Mate Choconut",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 59,
+    "nombre": "Hydra-Lip Labial Líquido Mate Iconic 67",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 60,
+    "nombre": "Hydra-Lip Labial Líquido Mate Hot Paprika",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 61,
+    "nombre": "Hydra-Lip Labial Líquido Mate Amore Rojo",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 62,
+    "nombre": "Hydra-Lip Labial Líquido Mate Red Velvet",
+    "unidades": 0,
+    "precioBase": 19.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 63,
+    "nombre": "Brillo Secante y Protector de Esmalte",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 64,
+    "nombre": "Base Fortalecedora de Uñas",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 65,
+    "nombre": "Esmalte Butter Yellow",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 66,
+    "nombre": "Esmalte Blanco Nieve",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 67,
+    "nombre": "Esmalte Blanco Nube",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 68,
+    "nombre": "Esmalte Te Quiero Rosa",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 69,
+    "nombre": "Esmalte Beige",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 70,
+    "nombre": "Esmalte Arena",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 71,
+    "nombre": "Esmalte Fucsia Encanto",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 72,
+    "nombre": "Esmalte Pasión",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 73,
+    "nombre": "Esmalte Iconic 67",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 74,
+    "nombre": "Esmalte Red Cava",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 75,
+    "nombre": "Esmalte Rojo Carmesí",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 76,
+    "nombre": "Esmalte Burgundy",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 77,
+    "nombre": "Esmalte Toffee",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 78,
+    "nombre": "Esmalte Lila & Rosé",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 79,
+    "nombre": "Esmalte Lila Love",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 80,
+    "nombre": "Esmalte Lavanda Soft",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 81,
+    "nombre": "Esmalte Cielo",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 82,
+    "nombre": "Esmalte Amantes de Medianoche",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 83,
+    "nombre": "Esmalte Mocha Mousse",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 84,
+    "nombre": "Esmalte Espresso",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 85,
+    "nombre": "Esmalte Cisne Negro",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 86,
+    "nombre": "Esmalte Denim Blue",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1604236491515-de3f0b2f9370?w=400"
+  },
+  {
+    "id": 87,
+    "nombre": "Ya! Delineador Multiusos a Prueba de Agua Negro",
+    "unidades": 0,
+    "precioBase": 10.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 88,
+    "nombre": "Ya! Delineador Multiusos a Prueba de Agua Rojo",
+    "unidades": 0,
+    "precioBase": 10.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 89,
+    "nombre": "Ya! Delineador Multiusos a Prueba de Agua Marrón Oscuro",
+    "unidades": 0,
+    "precioBase": 10.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 90,
+    "nombre": "Ya! Tinta de Labios Burgundy",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 91,
+    "nombre": "Ya! Tinta de Labios Dark Nude",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 92,
+    "nombre": "Ya! Tinta de Labios Coral Rosa",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 93,
+    "nombre": "Ya! Tinta de Labios Rojo Carmín",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 94,
+    "nombre": "Ya! Tinta de Labios Fucsia",
+    "unidades": 0,
+    "precioBase": 12.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=400"
+  },
+  {
+    "id": 95,
+    "nombre": "Ya! Barra Multiusos Rosa",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 96,
+    "nombre": "Ya! Barra Multiusos Rosa Nude",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 97,
+    "nombre": "Ya! Barra Multiusos Coral",
+    "unidades": 0,
+    "precioBase": 14.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 98,
+    "nombre": "Ya! Base Líquida 2 en 1 Claro",
+    "unidades": 0,
+    "precioBase": 16.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400"
+  },
+  {
+    "id": 99,
+    "nombre": "Ya! Base Líquida 2 en 1 Mediano Claro",
+    "unidades": 0,
+    "precioBase": 16.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400"
+  },
+  {
+    "id": 100,
+    "nombre": "Ya! Base Líquida 2 en 1 Mediano",
+    "unidades": 0,
+    "precioBase": 16.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400"
+  },
+  {
+    "id": 101,
+    "nombre": "Collar Alería",
+    "unidades": 0,
+    "precioBase": 35.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 102,
+    "nombre": "Pendientes Alería",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 103,
+    "nombre": "Pulsera Alería Doré",
+    "unidades": 0,
+    "precioBase": 24.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 104,
+    "nombre": "Pendientes Alería Blanc",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 105,
+    "nombre": "Colección Alería Flor",
+    "unidades": 0,
+    "precioBase": 42.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 106,
+    "nombre": "Pendientes Alería Flor Cristal",
+    "unidades": 0,
+    "precioBase": 20.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 107,
+    "nombre": "Collar Alería Flor",
+    "unidades": 0,
+    "precioBase": 32.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 108,
+    "nombre": "Pendientes Alería Doré Climber",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 109,
+    "nombre": "Aros Prisma",
+    "unidades": 0,
+    "precioBase": 28.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 110,
+    "nombre": "Gargantilla Prisma",
+    "unidades": 0,
+    "precioBase": 48.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 111,
+    "nombre": "Pendientes Prisma",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 112,
+    "nombre": "Set Pendientes Prisma Doré",
+    "unidades": 0,
+    "precioBase": 24.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 113,
+    "nombre": "Collar Prisma",
+    "unidades": 0,
+    "precioBase": 35.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 114,
+    "nombre": "Colección Prisma Sage",
+    "unidades": 0,
+    "precioBase": 45.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 115,
+    "nombre": "Collar Prisma Sage",
+    "unidades": 0,
+    "precioBase": 32.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 116,
+    "nombre": "Pendientes Prisma Sage",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 117,
+    "nombre": "Collar Prisma Blu",
+    "unidades": 0,
+    "precioBase": 32.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 118,
+    "nombre": "Pendientes Prisma Cristal",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 119,
+    "nombre": "Collar Gémina",
+    "unidades": 0,
+    "precioBase": 36.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 120,
+    "nombre": "Aros Gémina",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 121,
+    "nombre": "Aros Gémina Cristal",
+    "unidades": 0,
+    "precioBase": 24.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 122,
+    "nombre": "Sortija Gémina",
+    "unidades": 0,
+    "precioBase": 26.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 123,
+    "nombre": "Collar Classic Doré",
+    "unidades": 0,
+    "precioBase": 30.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 124,
+    "nombre": "Dije Dorezzi",
+    "unidades": 0,
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400"
+  },
+  {
+    "id": 125,
+    "nombre": "Pendientes Zirconi Dorezzi",
+    "unidades": 0,
+    "precioBase": 15.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 126,
+    "nombre": "Pendientes Zirconi Platinium",
+    "unidades": 0,
+    "precioBase": 16.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400"
+  },
+  {
+    "id": 127,
+    "nombre": "Osadía Infinita Eau de Parfum",
+    "unidades": 0,
+    "precioBase": 45.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 128,
+    "nombre": "Cielo Eau de Parfum",
+    "unidades": 0,
+    "precioBase": 45.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 129,
+    "nombre": "Temptation Eau de Parfum",
+    "unidades": 0,
+    "precioBase": 45.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 130,
+    "nombre": "Gaïa Elixir Parfum",
+    "unidades": 0,
+    "precioBase": 58.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 131,
+    "nombre": "Adrenaline Eau de Toilette",
+    "unidades": 0,
+    "precioBase": 35.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 132,
+    "nombre": "Di Que Sí Eau de Parfum",
+    "unidades": 0,
+    "precioBase": 38.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 133,
+    "nombre": "Soy Poderosa Colonia",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 134,
+    "nombre": "Soy Glow Colonia",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 135,
+    "nombre": "Soy Única Colonia",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 136,
+    "nombre": "Soy Sexy Colonia",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 137,
+    "nombre": "Ohm Now Parfum",
+    "unidades": 0,
+    "precioBase": 55.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 138,
+    "nombre": "Ohm Parfum",
+    "unidades": 0,
+    "precioBase": 55.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 139,
+    "nombre": "Arom Absolute Eau de Parfum",
+    "unidades": 0,
+    "precioBase": 42.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 140,
+    "nombre": "Solo Elixir Parfum",
+    "unidades": 0,
+    "precioBase": 50.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 141,
+    "nombre": "Temptation Black Eau de Parfum",
+    "unidades": 0,
+    "precioBase": 45.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400"
+  },
+  {
+    "id": 142,
+    "nombre": "Desodorante Perfumado Temptation Black",
+    "unidades": 0,
+    "precioBase": 8.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "https://images.unsplash.com/photo-1608248597481-496100c80836?w=400"
+  }
+]
