@@ -50,7 +50,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20012404.png",
+    "imagenUrl": "imagenes/5.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -138,7 +138,7 @@
     "precioBase": 52.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013713.png",
+    "imagenUrl": "imagenes/13.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -193,7 +193,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013714.png",
+    "imagenUrl": "imagenes/18.png",
     "codigo": "20013714",
     "categoria": "Tratamiento"
   },
@@ -402,7 +402,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013349.png",
+    "imagenUrl": "imagenes/37.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -622,7 +622,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013366.png",
+    "imagenUrl": "imagenes/57.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -820,7 +820,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013414.png",
+    "imagenUrl": "imagenes/75.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -1106,7 +1106,7 @@
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039514.png",
+    "imagenUrl": "imagenes/101.png",
     "codigo": "25039514",
     "categoria": "Joyería"
   },
@@ -1194,7 +1194,7 @@
     "precioBase": 28.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039264.png",
+    "imagenUrl": "imagenes/109.png",
     "codigo": "25039264",
     "categoria": "Joyería"
   },
@@ -1403,7 +1403,7 @@
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013641.png",
+    "imagenUrl": "imagenes/128.png",
     "codigo": "20013641",
     "categoria": "Perfumería"
   },
@@ -1502,7 +1502,7 @@
     "precioBase": 55.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20014225.png",
+    "imagenUrl": "imagenes/137.png",
     "codigo": "20014225",
     "categoria": "Perfumería"
   },
