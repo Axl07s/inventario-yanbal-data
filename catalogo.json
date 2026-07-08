@@ -28,7 +28,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -39,7 +39,7 @@
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -50,7 +50,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/20012404.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -61,7 +61,7 @@
     "precioBase": 3.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -72,7 +72,7 @@
     "precioBase": 55.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -83,7 +83,7 @@
     "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -94,7 +94,7 @@
     "precioBase": 68.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013641-01.jpg",
+    "imagenUrl": "imagenes/20013641.png",
     "codigo": "20013641",
     "categoria": "Perfumería"
   },
@@ -116,7 +116,7 @@
     "precioBase": 28.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -127,7 +127,7 @@
     "precioBase": 48.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -138,7 +138,7 @@
     "precioBase": 52.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -149,7 +149,7 @@
     "precioBase": 26.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -182,7 +182,7 @@
     "precioBase": 28.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -193,7 +193,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013714-01.jpg",
+    "imagenUrl": "imagenes/20013714.png",
     "codigo": "20013714",
     "categoria": "Tratamiento"
   },
@@ -270,7 +270,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/20012404.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -281,7 +281,7 @@
     "precioBase": 34.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/20012404.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -292,7 +292,7 @@
     "precioBase": 36.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/20012404.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -303,7 +303,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/20012404.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -314,7 +314,7 @@
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/20012404.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -325,7 +325,7 @@
     "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -358,7 +358,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -369,7 +369,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -380,7 +380,7 @@
     "precioBase": 26.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -391,7 +391,7 @@
     "precioBase": 28.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -402,7 +402,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -424,7 +424,7 @@
     "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -446,7 +446,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -457,7 +457,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -468,7 +468,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -479,7 +479,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -490,7 +490,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -501,7 +501,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -512,7 +512,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -523,7 +523,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -534,7 +534,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -545,7 +545,7 @@
     "precioBase": 17.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -556,7 +556,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -567,7 +567,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -578,7 +578,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -611,7 +611,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -622,7 +622,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -633,7 +633,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -644,7 +644,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013366-01.jpg",
+    "imagenUrl": "imagenes/20013366.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -688,7 +688,7 @@
     "precioBase": 12.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -699,7 +699,7 @@
     "precioBase": 12.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Manicura"
   },
@@ -710,7 +710,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -721,7 +721,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -732,7 +732,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -743,7 +743,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -754,7 +754,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -765,7 +765,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -776,7 +776,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -787,7 +787,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -798,7 +798,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -809,7 +809,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -820,7 +820,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -831,7 +831,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -842,7 +842,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -864,7 +864,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -875,7 +875,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -886,7 +886,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -897,7 +897,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -908,7 +908,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -919,7 +919,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -941,7 +941,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Manicura"
   },
@@ -985,7 +985,7 @@
     "precioBase": 12.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Maquillaje"
   },
@@ -996,7 +996,7 @@
     "precioBase": 12.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Maquillaje"
   },
@@ -1018,7 +1018,7 @@
     "precioBase": 12.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Maquillaje"
   },
@@ -1029,7 +1029,7 @@
     "precioBase": 12.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013414-01.jpg",
+    "imagenUrl": "imagenes/20013414.png",
     "codigo": "20013414",
     "categoria": "Maquillaje"
   },
@@ -1040,7 +1040,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -1051,7 +1051,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -1062,7 +1062,7 @@
     "precioBase": 14.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -1073,7 +1073,7 @@
     "precioBase": 16.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Tratamiento"
   },
@@ -1106,7 +1106,7 @@
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039514-01.jpg",
+    "imagenUrl": "imagenes/25039514.png",
     "codigo": "25039514",
     "categoria": "Joyería"
   },
@@ -1150,7 +1150,7 @@
     "precioBase": 42.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013713-01.jpg",
+    "imagenUrl": "imagenes/20013713.png",
     "codigo": "20013713",
     "categoria": "Joyería"
   },
@@ -1172,7 +1172,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039514-01.jpg",
+    "imagenUrl": "imagenes/25039514.png",
     "codigo": "25039514",
     "categoria": "Joyería"
   },
@@ -1194,7 +1194,7 @@
     "precioBase": 28.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039264-01.jpg",
+    "imagenUrl": "imagenes/25039264.png",
     "codigo": "25039264",
     "categoria": "Joyería"
   },
@@ -1205,7 +1205,7 @@
     "precioBase": 48.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039264-01.jpg",
+    "imagenUrl": "imagenes/25039264.png",
     "codigo": "25039264",
     "categoria": "Joyería"
   },
@@ -1249,7 +1249,7 @@
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039264-01.jpg",
+    "imagenUrl": "imagenes/25039264.png",
     "codigo": "25039264",
     "categoria": "Joyería"
   },
@@ -1304,7 +1304,7 @@
     "precioBase": 36.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039514-01.jpg",
+    "imagenUrl": "imagenes/25039514.png",
     "codigo": "25039514",
     "categoria": "Joyería"
   },
@@ -1315,7 +1315,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039264-01.jpg",
+    "imagenUrl": "imagenes/25039264.png",
     "codigo": "25039264",
     "categoria": "Joyería"
   },
@@ -1348,7 +1348,7 @@
     "precioBase": 30.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-25039514-01.jpg",
+    "imagenUrl": "imagenes/25039514.png",
     "codigo": "25039514",
     "categoria": "Joyería"
   },
@@ -1403,7 +1403,7 @@
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013641-01.jpg",
+    "imagenUrl": "imagenes/20013641.png",
     "codigo": "20013641",
     "categoria": "Perfumería"
   },
@@ -1414,7 +1414,7 @@
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20013641-01.jpg",
+    "imagenUrl": "imagenes/20013641.png",
     "codigo": "20013641",
     "categoria": "Perfumería"
   },
@@ -1436,7 +1436,7 @@
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/20012404.png",
     "codigo": "20012404",
     "categoria": "Perfumería"
   },
@@ -1502,7 +1502,7 @@
     "precioBase": 55.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20014225-01.jpg",
+    "imagenUrl": "imagenes/20014225.png",
     "codigo": "20014225",
     "categoria": "Perfumería"
   },
@@ -1513,7 +1513,7 @@
     "precioBase": 55.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20014225-01.jpg",
+    "imagenUrl": "imagenes/20014225.png",
     "codigo": "20014225",
     "categoria": "Perfumería"
   },
