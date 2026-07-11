@@ -23,14 +23,32 @@
   },
   {
     "id": 3,
-    "nombre": "Labial Líquido Efecto Metalizado Terra Cobrizo",
-    "unidades": 0,
+    "nombre": "Labial Líquido Efecto Metalizado",
+    "categoria": "Maquillaje",
     "precioBase": 18.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/3.png",
     "codigo": "20013366",
-    "categoria": "Maquillaje"
+    "variantes": [
+      {
+        "id": 31,
+        "nombre": "Metalic Malva",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/31.png"
+      },
+      {
+        "id": 32,
+        "nombre": "Rojo Paladio",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/32.png"
+      },
+      {
+        "id": 3,
+        "nombre": "Terra Cobrizo",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/3.png"
+      }
+    ]
   },
   {
     "id": 4,
@@ -244,24 +262,48 @@
   {
     "id": 23,
     "nombre": "BB Cream Hidratante",
-    "unidades": 0,
+    "categoria": "Tratamiento",
     "precioBase": 24.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/20014031.png",
     "codigo": "20014031",
-    "categoria": "Tratamiento"
+    "variantes": [
+      {
+        "id": 23,
+        "nombre": "Claro",
+        "codigo": "20014031",
+        "imagenUrl": "imagenes/20014031.png"
+      },
+      {
+        "id": 23,
+        "nombre": "Mediano",
+        "codigo": "20014031",
+        "imagenUrl": "imagenes/20014031.png"
+      }
+    ]
   },
   {
     "id": 24,
     "nombre": "BB Cream Matificante",
-    "unidades": 0,
+    "categoria": "Tratamiento",
     "precioBase": 24.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/20014034.png",
     "codigo": "20014034",
-    "categoria": "Tratamiento"
+    "variantes": [
+      {
+        "id": 24,
+        "nombre": "Claro",
+        "codigo": "20014034",
+        "imagenUrl": "imagenes/20014034.png"
+      },
+      {
+        "id": 24,
+        "nombre": "Mediano",
+        "codigo": "20014034",
+        "imagenUrl": "imagenes/20014034.png"
+      }
+    ]
   },
   {
     "id": 25,
@@ -330,28 +372,6 @@
     "categoria": "Tratamiento"
   },
   {
-    "id": 31,
-    "nombre": "Blum Crema Moldeadora de Rizos",
-    "unidades": 0,
-    "precioBase": 18.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/20013894.png",
-    "codigo": "20013894",
-    "categoria": "Tratamiento"
-  },
-  {
-    "id": 32,
-    "nombre": "Blum Gel Fijador de Rizos",
-    "unidades": 0,
-    "precioBase": 16.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/20013895.png",
-    "codigo": "20013895",
-    "categoria": "Tratamiento"
-  },
-  {
     "id": 33,
     "nombre": "Labial Líquido Efecto Metalizado Metalic Malva",
     "unidades": 0,
@@ -364,14 +384,32 @@
   },
   {
     "id": 34,
-    "nombre": "Labial Líquido Efecto Metalizado Rojo Paladio",
-    "unidades": 0,
+    "nombre": "Polvos Compactos Antiedad",
+    "categoria": "Maquillaje",
     "precioBase": 18.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/34.png",
     "codigo": "20013366",
-    "categoria": "Maquillaje"
+    "variantes": [
+      {
+        "id": 34,
+        "nombre": "Piel Clara tono 1",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/34.png"
+      },
+      {
+        "id": 34,
+        "nombre": "Piel media (tono 2 o 3)",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/34.png"
+      },
+      {
+        "id": 34,
+        "nombre": "Piel Oscura (tono 6 o 7)",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/34.png"
+      }
+    ]
   },
   {
     "id": 35,
@@ -431,255 +469,203 @@
   {
     "id": 40,
     "nombre": "Perfilador Retráctil para Labios",
-    "unidades": 0,
+    "categoria": "Maquillaje",
     "precioBase": 12.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/20013901.png",
     "codigo": "20013901",
-    "categoria": "Tratamiento"
-  },
-  {
-    "id": 41,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Ruby Shine",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/41.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 42,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Blush Glow",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/42.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 43,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Glow Honey",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/43.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 44,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Latte Vibes",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/44.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 45,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Vino Bomb",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/45.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 46,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Dream Rose",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/46.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 47,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Nude Lips",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/47.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
+    "variantes": [
+      {
+        "id": 40,
+        "nombre": "Nude",
+        "codigo": "20013901",
+        "imagenUrl": "imagenes/20013901.png"
+      },
+      {
+        "id": 40,
+        "nombre": "Toffee",
+        "codigo": "20013901",
+        "imagenUrl": "imagenes/20013901.png"
+      },
+      {
+        "id": 40,
+        "nombre": "Chocolate",
+        "codigo": "20013901",
+        "imagenUrl": "imagenes/20013901.png"
+      },
+      {
+        "id": 40,
+        "nombre": "Rojo",
+        "codigo": "20013901",
+        "imagenUrl": "imagenes/20013901.png"
+      },
+      {
+        "id": 40,
+        "nombre": "Vino Rojizo",
+        "codigo": "20013901",
+        "imagenUrl": "imagenes/20013901.png"
+      },
+      {
+        "id": 40,
+        "nombre": "Vino",
+        "codigo": "20013901",
+        "imagenUrl": "imagenes/20013901.png"
+      }
+    ]
   },
   {
     "id": 48,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Iconic 67",
-    "unidades": 0,
+    "nombre": "Hydra-Lip Brillo Labial Volumen",
+    "categoria": "Maquillaje",
     "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/48.png",
     "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 49,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Red Bloom",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/49.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 50,
-    "nombre": "Hydra-Lip Brillo Labial Volumen Fucsia Bold",
-    "unidades": 0,
-    "precioBase": 17.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/50.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 51,
-    "nombre": "Hydra-Lip Labial Líquido Mate Malvalatte",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/51.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 52,
-    "nombre": "Hydra-Lip Labial Líquido Mate Caramel Nude",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/52.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 53,
-    "nombre": "Hydra-Lip Labial Líquido Mate Lola Rose",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/53.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 54,
-    "nombre": "Hydra-Lip Labial Líquido Mate So Fucsia",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/54.png",
-    "codigo": "20013368",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 55,
-    "nombre": "Hydra-Lip Labial Líquido Mate Berry Diva",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/55.png",
-    "codigo": "20013368",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 56,
-    "nombre": "Hydra-Lip Labial Líquido Mate Oh My Wine",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/56.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
+    "variantes": [
+      {
+        "id": 41,
+        "nombre": "Ruby Shine",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/41.png"
+      },
+      {
+        "id": 42,
+        "nombre": "Blush Glow",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/42.png"
+      },
+      {
+        "id": 43,
+        "nombre": "Glow Honey",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/43.png"
+      },
+      {
+        "id": 44,
+        "nombre": "Latte Vibes",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/44.png"
+      },
+      {
+        "id": 45,
+        "nombre": "Vino Bomb",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/45.png"
+      },
+      {
+        "id": 46,
+        "nombre": "Dream Rose",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/46.png"
+      },
+      {
+        "id": 47,
+        "nombre": "Nude Lips",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/47.png"
+      },
+      {
+        "id": 48,
+        "nombre": "Iconic 67",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/48.png"
+      },
+      {
+        "id": 49,
+        "nombre": "Red Bloom",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/49.png"
+      },
+      {
+        "id": 50,
+        "nombre": "Fucsia Bold",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/50.png"
+      }
+    ]
   },
   {
     "id": 57,
-    "nombre": "Hydra-Lip Labial Líquido Mate Capuccino",
-    "unidades": 0,
+    "nombre": "Hydra-Lip Labial Líquido Mate",
+    "categoria": "Maquillaje",
     "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/57.png",
     "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 58,
-    "nombre": "Hydra-Lip Labial Líquido Mate Choconut",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/58.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 59,
-    "nombre": "Hydra-Lip Labial Líquido Mate Iconic 67",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/59.png",
-    "codigo": "20013366",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 60,
-    "nombre": "Hydra-Lip Labial Líquido Mate Hot Paprika",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/60.png",
-    "codigo": "20013368",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 61,
-    "nombre": "Hydra-Lip Labial Líquido Mate Amore Rojo",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/61.png",
-    "codigo": "20013368",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 62,
-    "nombre": "Hydra-Lip Labial Líquido Mate Red Velvet",
-    "unidades": 0,
-    "precioBase": 19.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/62.png",
-    "codigo": "20013368",
-    "categoria": "Maquillaje"
+    "variantes": [
+      {
+        "id": 51,
+        "nombre": "Malvalatte",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/51.png"
+      },
+      {
+        "id": 52,
+        "nombre": "Caramel Nude",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/52.png"
+      },
+      {
+        "id": 53,
+        "nombre": "Lola Rose",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/53.png"
+      },
+      {
+        "id": 54,
+        "nombre": "So Fucsia",
+        "codigo": "20013368",
+        "imagenUrl": "imagenes/54.png"
+      },
+      {
+        "id": 55,
+        "nombre": "Berry Diva",
+        "codigo": "20013368",
+        "imagenUrl": "imagenes/55.png"
+      },
+      {
+        "id": 56,
+        "nombre": "Oh My Wine",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/56.png"
+      },
+      {
+        "id": 57,
+        "nombre": "Capuccino",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/57.png"
+      },
+      {
+        "id": 58,
+        "nombre": "Choconut",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/58.png"
+      },
+      {
+        "id": 59,
+        "nombre": "Iconic 67",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/59.png"
+      },
+      {
+        "id": 60,
+        "nombre": "Hot Paprika",
+        "codigo": "20013368",
+        "imagenUrl": "imagenes/60.png"
+      },
+      {
+        "id": 61,
+        "nombre": "Amore Rojo",
+        "codigo": "20013368",
+        "imagenUrl": "imagenes/61.png"
+      },
+      {
+        "id": 62,
+        "nombre": "Red Velvet",
+        "codigo": "20013368",
+        "imagenUrl": "imagenes/62.png"
+      }
+    ]
   },
   {
     "id": 63,
@@ -704,246 +690,147 @@
     "categoria": "Manicura"
   },
   {
-    "id": 65,
-    "nombre": "Esmalte Butter Yellow",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/65.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 66,
-    "nombre": "Esmalte Blanco Nieve",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/66.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 67,
-    "nombre": "Esmalte Blanco Nube",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/67.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 68,
-    "nombre": "Esmalte Te Quiero Rosa",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/68.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 69,
-    "nombre": "Esmalte Beige",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/69.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 70,
-    "nombre": "Esmalte Arena",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/70.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 71,
-    "nombre": "Esmalte Fucsia Encanto",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/71.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 72,
-    "nombre": "Esmalte Pasión",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/72.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 73,
-    "nombre": "Esmalte Iconic 67",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/73.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 74,
-    "nombre": "Esmalte Red Cava",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/74.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
     "id": 75,
-    "nombre": "Esmalte Rojo Carmesí",
-    "unidades": 0,
+    "nombre": "Esmalte con Bioramic",
+    "categoria": "Manicura",
     "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/75.png",
     "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 76,
-    "nombre": "Esmalte Burgundy",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/76.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 77,
-    "nombre": "Esmalte Toffee",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/77.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 78,
-    "nombre": "Esmalte Lila & Rosé",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/20013950.png",
-    "codigo": "20013950",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 79,
-    "nombre": "Esmalte Lila Love",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/79.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 80,
-    "nombre": "Esmalte Lavanda Soft",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/80.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 81,
-    "nombre": "Esmalte Cielo",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/81.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 82,
-    "nombre": "Esmalte Amantes de Medianoche",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/82.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 83,
-    "nombre": "Esmalte Mocha Mousse",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/83.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 84,
-    "nombre": "Esmalte Espresso",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/84.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 85,
-    "nombre": "Esmalte Cisne Negro",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/20013276.png",
-    "codigo": "20013276",
-    "categoria": "Manicura"
-  },
-  {
-    "id": 86,
-    "nombre": "Esmalte Denim Blue",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/86.png",
-    "codigo": "20013414",
-    "categoria": "Manicura"
+    "variantes": [
+      {
+        "id": 65,
+        "nombre": "Butter Yellow",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/65.png"
+      },
+      {
+        "id": 66,
+        "nombre": "Blanco Nieve",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/66.png"
+      },
+      {
+        "id": 67,
+        "nombre": "Blanco Nube",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/67.png"
+      },
+      {
+        "id": 68,
+        "nombre": "Te Quiero Rosa",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/68.png"
+      },
+      {
+        "id": 69,
+        "nombre": "Beige",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/69.png"
+      },
+      {
+        "id": 70,
+        "nombre": "Arena",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/70.png"
+      },
+      {
+        "id": 71,
+        "nombre": "Fucsia Encanto",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/71.png"
+      },
+      {
+        "id": 72,
+        "nombre": "Pasión",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/72.png"
+      },
+      {
+        "id": 73,
+        "nombre": "Iconic 67",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/73.png"
+      },
+      {
+        "id": 74,
+        "nombre": "Red Cava",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/74.png"
+      },
+      {
+        "id": 75,
+        "nombre": "Rojo Carmesí",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/75.png"
+      },
+      {
+        "id": 76,
+        "nombre": "Burgundy",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/76.png"
+      },
+      {
+        "id": 77,
+        "nombre": "Toffee",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/77.png"
+      },
+      {
+        "id": 78,
+        "nombre": "Lila & Rosé",
+        "codigo": "20013950",
+        "imagenUrl": "imagenes/20013950.png"
+      },
+      {
+        "id": 79,
+        "nombre": "Lila Love",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/79.png"
+      },
+      {
+        "id": 80,
+        "nombre": "Lavanda Soft",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/80.png"
+      },
+      {
+        "id": 81,
+        "nombre": "Cielo",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/81.png"
+      },
+      {
+        "id": 82,
+        "nombre": "Amantes de Medianoche",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/82.png"
+      },
+      {
+        "id": 83,
+        "nombre": "Mocha Mousse",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/83.png"
+      },
+      {
+        "id": 84,
+        "nombre": "Espresso",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/84.png"
+      },
+      {
+        "id": 85,
+        "nombre": "Cisne Negro",
+        "codigo": "20013276",
+        "imagenUrl": "imagenes/20013276.png"
+      },
+      {
+        "id": 86,
+        "nombre": "Denim Blue",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/86.png"
+      }
+    ]
   },
   {
     "id": 87,
@@ -968,125 +855,103 @@
     "categoria": "Maquillaje"
   },
   {
-    "id": 89,
-    "nombre": "Ya! Delineador Multiusos a Prueba de Agua Marrón Oscuro",
-    "unidades": 0,
-    "precioBase": 10.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/20013374.png",
-    "codigo": "20013374",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 90,
-    "nombre": "Ya! Tinta de Labios Burgundy",
-    "unidades": 0,
-    "precioBase": 12.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/90.png",
-    "codigo": "20013414",
-    "categoria": "Maquillaje"
-  },
-  {
     "id": 91,
-    "nombre": "Ya! Tinta de Labios Dark Nude",
-    "unidades": 0,
+    "nombre": "Ya! Tinta de Labios",
+    "categoria": "Maquillaje",
     "precioBase": 12.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/91.png",
     "codigo": "20013414",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 92,
-    "nombre": "Ya! Tinta de Labios Coral Rosa",
-    "unidades": 0,
-    "precioBase": 12.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/20013413.png",
-    "codigo": "20013413",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 93,
-    "nombre": "Ya! Tinta de Labios Rojo Carmín",
-    "unidades": 0,
-    "precioBase": 12.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/93.png",
-    "codigo": "20013414",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 94,
-    "nombre": "Ya! Tinta de Labios Fucsia",
-    "unidades": 0,
-    "precioBase": 12.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/94.png",
-    "codigo": "20013414",
-    "categoria": "Maquillaje"
+    "variantes": [
+      {
+        "id": 89,
+        "nombre": "Dark Nude",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/89.png"
+      },
+      {
+        "id": 90,
+        "nombre": "Coral Rosa",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/90.png"
+      },
+      {
+        "id": 91,
+        "nombre": "Rojo Carmín",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/91.png"
+      },
+      {
+        "id": 92,
+        "nombre": "Burgundy",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/92.png"
+      },
+      {
+        "id": 93,
+        "nombre": "Fucsia",
+        "codigo": "20013414",
+        "imagenUrl": "imagenes/93.png"
+      }
+    ]
   },
   {
     "id": 95,
-    "nombre": "Ya! Barra Multiusos Rosa",
-    "unidades": 0,
+    "nombre": "Ya! Barra Multiusos",
+    "categoria": "Maquillaje",
     "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/95.png",
     "codigo": "20013713",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 96,
-    "nombre": "Ya! Barra Multiusos Rosa Nude",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/96.png",
-    "codigo": "20013713",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 97,
-    "nombre": "Ya! Barra Multiusos Coral",
-    "unidades": 0,
-    "precioBase": 14.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/97.png",
-    "codigo": "20013713",
-    "categoria": "Maquillaje"
+    "variantes": [
+      {
+        "id": 94,
+        "nombre": "Rosa Nude",
+        "codigo": "20013713",
+        "imagenUrl": "imagenes/94.png"
+      },
+      {
+        "id": 95,
+        "nombre": "Rosa",
+        "codigo": "20013713",
+        "imagenUrl": "imagenes/95.png"
+      },
+      {
+        "id": 96,
+        "nombre": "Coral",
+        "codigo": "20013713",
+        "imagenUrl": "imagenes/96.png"
+      }
+    ]
   },
   {
     "id": 98,
-    "nombre": "Ya! Base Líquida 2 en 1 Claro",
-    "unidades": 0,
+    "nombre": "Ya! Base Líquida",
+    "categoria": "Maquillaje",
     "precioBase": 16.0,
-    "descuento": 0,
-    "esRegalo": false,
+    "descuento": 30,
     "imagenUrl": "imagenes/98.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento"
-  },
-  {
-    "id": 99,
-    "nombre": "Ya! Base Líquida 2 en 1 Mediano Claro",
-    "unidades": 0,
-    "precioBase": 16.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/20013229.png",
-    "codigo": "20013229",
-    "categoria": "Tratamiento"
+    "variantes": [
+      {
+        "id": 97,
+        "nombre": "Claro",
+        "codigo": "20013713",
+        "imagenUrl": "imagenes/97.png"
+      },
+      {
+        "id": 98,
+        "nombre": "Mediano Claro",
+        "codigo": "20013713",
+        "imagenUrl": "imagenes/98.png"
+      },
+      {
+        "id": 99,
+        "nombre": "Mediano",
+        "codigo": "20013713",
+        "imagenUrl": "imagenes/99.png"
+      }
+    ]
   },
   {
     "id": 100,
@@ -1458,7 +1323,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/YA001375.png",
+    "imagenUrl": "imagenes/133.png",
     "codigo": "YA001375",
     "categoria": "Perfumería"
   },
@@ -1469,7 +1334,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/YA001375.png",
+    "imagenUrl": "imagenes/134.png",
     "codigo": "YA001375",
     "categoria": "Perfumería"
   },
@@ -1480,7 +1345,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/YA001375.png",
+    "imagenUrl": "imagenes/135.png",
     "codigo": "YA001375",
     "categoria": "Perfumería"
   },
@@ -1491,7 +1356,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/YA001375.png",
+    "imagenUrl": "imagenes/136.png",
     "codigo": "YA001375",
     "categoria": "Perfumería"
   },
