@@ -392,20 +392,26 @@
     "codigo": "20013366",
     "variantes": [
       {
-        "id": 34,
-        "nombre": "Piel Clara tono 1",
+        "id": 341,
+        "nombre": "Tono 1",
         "codigo": "20013366",
         "imagenUrl": "imagenes/34.png"
       },
       {
-        "id": 34,
-        "nombre": "Piel media (tono 2 o 3)",
+        "id": 342,
+        "nombre": "Tonos 2-3",
         "codigo": "20013366",
         "imagenUrl": "imagenes/34.png"
       },
       {
-        "id": 34,
-        "nombre": "Piel Oscura (tono 6 o 7)",
+        "id": 343,
+        "nombre": "Tonos 4-5",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/34.png"
+      },
+      {
+        "id": 344,
+        "nombre": "Tonos 6-7",
         "codigo": "20013366",
         "imagenUrl": "imagenes/34.png"
       }
