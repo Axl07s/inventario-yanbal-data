@@ -6,7 +6,7 @@
     "precioBase": 38.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25038190.png",
+    "imagenUrl": "imagenes/1.png",
     "codigo": "25038190",
     "categoria": "Joyería"
   },
@@ -17,7 +17,7 @@
     "precioBase": 24.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/2.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -123,7 +123,7 @@
     "precioBase": 15.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20014484.png",
+    "imagenUrl": "imagenes/10.png",
     "codigo": "20014484",
     "categoria": "Tratamiento"
   },
@@ -178,7 +178,7 @@
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013710.png",
+    "imagenUrl": "imagenes/15.png",
     "codigo": "20013710",
     "categoria": "Tratamiento"
   },
@@ -189,7 +189,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20014081.png",
+    "imagenUrl": "imagenes/16.png",
     "codigo": "20014081",
     "categoria": "Tratamiento"
   },
@@ -222,7 +222,7 @@
     "precioBase": 16.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013901.png",
+    "imagenUrl": "imagenes/19.png",
     "codigo": "20013901",
     "categoria": "Tratamiento"
   },
@@ -265,20 +265,20 @@
     "categoria": "Tratamiento",
     "precioBase": 24.0,
     "descuento": 30,
-    "imagenUrl": "imagenes/20014031.png",
+    "imagenUrl": "imagenes/23.png",
     "codigo": "20014031",
     "variantes": [
       {
         "id": 23,
         "nombre": "Claro",
         "codigo": "20014031",
-        "imagenUrl": "imagenes/20014031.png"
+        "imagenUrl": "imagenes/23.png"
       },
       {
         "id": 23,
         "nombre": "Mediano",
         "codigo": "20014031",
-        "imagenUrl": "imagenes/20014031.png"
+        "imagenUrl": "imagenes/23.png"
       }
     ]
   },
@@ -288,20 +288,20 @@
     "categoria": "Tratamiento",
     "precioBase": 24.0,
     "descuento": 30,
-    "imagenUrl": "imagenes/20014034.png",
+    "imagenUrl": "imagenes/24.png",
     "codigo": "20014034",
     "variantes": [
       {
         "id": 24,
         "nombre": "Claro",
         "codigo": "20014034",
-        "imagenUrl": "imagenes/20014034.png"
+        "imagenUrl": "imagenes/24.png"
       },
       {
         "id": 24,
         "nombre": "Mediano",
         "codigo": "20014034",
-        "imagenUrl": "imagenes/20014034.png"
+        "imagenUrl": "imagenes/24.png"
       }
     ]
   },
@@ -451,7 +451,7 @@
     "precioBase": 19.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013276.png",
+    "imagenUrl": "imagenes/38.png",
     "codigo": "20013276",
     "categoria": "Maquillaje"
   },
@@ -472,44 +472,44 @@
     "categoria": "Maquillaje",
     "precioBase": 12.0,
     "descuento": 30,
-    "imagenUrl": "imagenes/20013901.png",
+    "imagenUrl": "imagenes/40.png",
     "codigo": "20013901",
     "variantes": [
       {
         "id": 40,
         "nombre": "Nude",
         "codigo": "20013901",
-        "imagenUrl": "imagenes/20013901.png"
+        "imagenUrl": "imagenes/40.png"
       },
       {
         "id": 40,
         "nombre": "Toffee",
         "codigo": "20013901",
-        "imagenUrl": "imagenes/20013901.png"
+        "imagenUrl": "imagenes/40.png"
       },
       {
         "id": 40,
         "nombre": "Chocolate",
         "codigo": "20013901",
-        "imagenUrl": "imagenes/20013901.png"
+        "imagenUrl": "imagenes/40.png"
       },
       {
         "id": 40,
         "nombre": "Rojo",
         "codigo": "20013901",
-        "imagenUrl": "imagenes/20013901.png"
+        "imagenUrl": "imagenes/40.png"
       },
       {
         "id": 40,
         "nombre": "Vino Rojizo",
         "codigo": "20013901",
-        "imagenUrl": "imagenes/20013901.png"
+        "imagenUrl": "imagenes/40.png"
       },
       {
         "id": 40,
         "nombre": "Vino",
         "codigo": "20013901",
-        "imagenUrl": "imagenes/20013901.png"
+        "imagenUrl": "imagenes/40.png"
       }
     ]
   },
@@ -780,7 +780,7 @@
         "id": 78,
         "nombre": "Lila & Rosé",
         "codigo": "20013950",
-        "imagenUrl": "imagenes/20013950.png"
+        "imagenUrl": "imagenes/78.png"
       },
       {
         "id": 79,
@@ -822,7 +822,7 @@
         "id": 85,
         "nombre": "Cisne Negro",
         "codigo": "20013276",
-        "imagenUrl": "imagenes/20013276.png"
+        "imagenUrl": "imagenes/85.png"
       },
       {
         "id": 86,
@@ -839,7 +839,7 @@
     "precioBase": 10.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013374.png",
+    "imagenUrl": "imagenes/87.png",
     "codigo": "20013374",
     "categoria": "Maquillaje"
   },
@@ -850,7 +850,7 @@
     "precioBase": 10.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013374.png",
+    "imagenUrl": "imagenes/88.png",
     "codigo": "20013374",
     "categoria": "Maquillaje"
   },
@@ -960,7 +960,7 @@
     "precioBase": 16.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013230.png",
+    "imagenUrl": "imagenes/100.png",
     "codigo": "20013230",
     "categoria": "Tratamiento"
   },
@@ -982,7 +982,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/102.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -993,7 +993,7 @@
     "precioBase": 24.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25038190.png",
+    "imagenUrl": "imagenes/103.png",
     "codigo": "25038190",
     "categoria": "Joyería"
   },
@@ -1004,7 +1004,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039441.png",
+    "imagenUrl": "imagenes/104.png",
     "codigo": "25039441",
     "categoria": "Joyería"
   },
@@ -1026,7 +1026,7 @@
     "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/106.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1048,7 +1048,7 @@
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/108.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1081,7 +1081,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/111.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1092,7 +1092,7 @@
     "precioBase": 24.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/112.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1103,7 +1103,7 @@
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25038374.png",
+    "imagenUrl": "imagenes/113.png",
     "codigo": "25038374",
     "categoria": "Joyería"
   },
@@ -1125,7 +1125,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25037994.png",
+    "imagenUrl": "imagenes/115.png",
     "codigo": "25037994",
     "categoria": "Joyería"
   },
@@ -1136,7 +1136,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/116.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1147,7 +1147,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25037994.png",
+    "imagenUrl": "imagenes/117.png",
     "codigo": "25037994",
     "categoria": "Joyería"
   },
@@ -1158,7 +1158,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/118.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1191,7 +1191,7 @@
     "precioBase": 24.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25038374.png",
+    "imagenUrl": "imagenes/121.png",
     "codigo": "25038374",
     "categoria": "Joyería"
   },
@@ -1202,7 +1202,7 @@
     "precioBase": 26.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25037178.png",
+    "imagenUrl": "imagenes/122.png",
     "codigo": "25037178",
     "categoria": "Joyería"
   },
@@ -1224,7 +1224,7 @@
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/124.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1235,7 +1235,7 @@
     "precioBase": 15.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039583.png",
+    "imagenUrl": "imagenes/125.png",
     "codigo": "25039583",
     "categoria": "Joyería"
   },
@@ -1246,7 +1246,7 @@
     "precioBase": 16.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/25039441.png",
+    "imagenUrl": "imagenes/126.png",
     "codigo": "25039441",
     "categoria": "Joyería"
   },
@@ -1257,7 +1257,7 @@
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013122.png",
+    "imagenUrl": "imagenes/127.png",
     "codigo": "20013122",
     "categoria": "Perfumería"
   },
@@ -1290,7 +1290,7 @@
     "precioBase": 58.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013981.png",
+    "imagenUrl": "imagenes/130.png",
     "codigo": "20013981",
     "categoria": "Perfumería"
   },
@@ -1312,7 +1312,7 @@
     "precioBase": 38.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20014202.png",
+    "imagenUrl": "imagenes/132.png",
     "codigo": "20014202",
     "categoria": "Perfumería"
   },
@@ -1389,7 +1389,7 @@
     "precioBase": 42.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013581.png",
+    "imagenUrl": "imagenes/139.png",
     "codigo": "20013581",
     "categoria": "Perfumería"
   },
@@ -1400,7 +1400,7 @@
     "precioBase": 50.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013981.png",
+    "imagenUrl": "imagenes/140.png",
     "codigo": "20013981",
     "categoria": "Perfumería"
   },
@@ -1411,7 +1411,7 @@
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20013411.png",
+    "imagenUrl": "imagenes/141.png",
     "codigo": "20013411",
     "categoria": "Perfumería"
   },
@@ -1422,7 +1422,7 @@
     "precioBase": 8.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/20014477.png",
+    "imagenUrl": "imagenes/142.png",
     "codigo": "20014477",
     "categoria": "Perfumería"
   }
