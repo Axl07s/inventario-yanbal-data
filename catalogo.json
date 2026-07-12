@@ -68,7 +68,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/5.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -312,7 +312,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012193-01.jpg",
+    "imagenUrl": "imagenes/25.png",
     "codigo": "20012193",
     "categoria": "Tratamiento"
   },
@@ -323,7 +323,7 @@
     "precioBase": 34.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/26.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -334,7 +334,7 @@
     "precioBase": 36.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/27.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -345,7 +345,7 @@
     "precioBase": 32.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/28.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
@@ -356,7 +356,7 @@
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "https://www.yanbal.com/es/medias/500Wx500H-Yanbal-OriginalFormat-20012404-01.jpg",
+    "imagenUrl": "imagenes/29.png",
     "codigo": "20012404",
     "categoria": "Tratamiento"
   },
