@@ -31,22 +31,22 @@
     "codigo": "20013366",
     "variantes": [
       {
-        "id": 31,
-        "nombre": "Metalic Malva",
-        "codigo": "20013366",
-        "imagenUrl": "imagenes/3.png"
-      },
-      {
-        "id": 32,
-        "nombre": "Rojo Paladio",
-        "codigo": "20013366",
-        "imagenUrl": "imagenes/3.png"
-      },
-      {
         "id": 3,
         "nombre": "Terra Cobrizo",
         "codigo": "20013366",
         "imagenUrl": "imagenes/3.png"
+      },
+      {
+        "id": 301,
+        "nombre": "Metalic Malva",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/301.png"
+      },
+      {
+        "id": 302,
+        "nombre": "Rojo Paladio",
+        "codigo": "20013366",
+        "imagenUrl": "imagenes/302.png"
       }
     ]
   },
@@ -372,13 +372,33 @@
     "categoria": "Tratamiento"
   },
   {
+    "id": 31,
+    "nombre": "Blum Crema Moldeadora de Rizos",
+    "categoria": "Tratamiento",
+    "precioBase": 18.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "imagenes/31.png",
+    "codigo": "20013230"
+  },
+  {
+    "id": 32,
+    "nombre": "Blum Gel Fijador de Rizos",
+    "categoria": "Tratamiento",
+    "precioBase": 16.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "imagenes/32.png",
+    "codigo": "20013230"
+  },
+  {
     "id": 33,
     "nombre": "Labial Líquido Efecto Metalizado Metalic Malva",
     "unidades": 0,
     "precioBase": 18.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/33.png",
+    "imagenUrl": "imagenes/301.png",
     "codigo": "20013366",
     "categoria": "Maquillaje"
   },
@@ -425,17 +445,6 @@
     "descuento": 0,
     "esRegalo": false,
     "imagenUrl": "imagenes/35.png",
-    "codigo": "20013713",
-    "categoria": "Maquillaje"
-  },
-  {
-    "id": 36,
-    "nombre": "Polvos Compactos Antiedad",
-    "unidades": 0,
-    "precioBase": 28.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/36.png",
     "codigo": "20013713",
     "categoria": "Maquillaje"
   },
@@ -839,6 +848,17 @@
     ]
   },
   {
+    "id": 86,
+    "nombre": "Ya! Delineador Multiusos a Prueba de Agua Marrón Oscuro",
+    "unidades": 0,
+    "precioBase": 10.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "imagenes/86.png",
+    "codigo": "20013374",
+    "categoria": "Maquillaje"
+  },
+  {
     "id": 87,
     "nombre": "Ya! Delineador Multiusos a Prueba de Agua Negro",
     "unidades": 0,
@@ -866,38 +886,38 @@
     "categoria": "Maquillaje",
     "precioBase": 12.0,
     "descuento": 30,
-    "imagenUrl": "imagenes/91.png",
+    "imagenUrl": "imagenes/91_darknude.png",
     "codigo": "20013414",
     "variantes": [
       {
         "id": 89,
         "nombre": "Dark Nude",
         "codigo": "20013414",
-        "imagenUrl": "imagenes/91.png"
+        "imagenUrl": "imagenes/91_darknude.png"
       },
       {
         "id": 90,
         "nombre": "Coral Rosa",
         "codigo": "20013414",
-        "imagenUrl": "imagenes/91.png"
+        "imagenUrl": "imagenes/91_coralrosa.png"
       },
       {
         "id": 91,
         "nombre": "Rojo Carmín",
         "codigo": "20013414",
-        "imagenUrl": "imagenes/91.png"
+        "imagenUrl": "imagenes/91_rojocarmin.png"
       },
       {
         "id": 92,
         "nombre": "Burgundy",
         "codigo": "20013414",
-        "imagenUrl": "imagenes/91.png"
+        "imagenUrl": "imagenes/91_burgundy.png"
       },
       {
         "id": 93,
         "nombre": "Fucsia",
         "codigo": "20013414",
-        "imagenUrl": "imagenes/91.png"
+        "imagenUrl": "imagenes/91_fucsia.png"
       }
     ]
   },
@@ -907,26 +927,26 @@
     "categoria": "Maquillaje",
     "precioBase": 14.0,
     "descuento": 30,
-    "imagenUrl": "imagenes/95.png",
+    "imagenUrl": "imagenes/95_rosa.png",
     "codigo": "20013713",
     "variantes": [
       {
         "id": 94,
         "nombre": "Rosa Nude",
         "codigo": "20013713",
-        "imagenUrl": "imagenes/95.png"
+        "imagenUrl": "imagenes/95_rosanude.png"
       },
       {
         "id": 95,
         "nombre": "Rosa",
         "codigo": "20013713",
-        "imagenUrl": "imagenes/95.png"
+        "imagenUrl": "imagenes/95_rosa.png"
       },
       {
         "id": 96,
         "nombre": "Coral",
         "codigo": "20013713",
-        "imagenUrl": "imagenes/95.png"
+        "imagenUrl": "imagenes/95_coral.png"
       }
     ]
   },
@@ -960,301 +980,264 @@
     ]
   },
   {
-    "id": 100,
-    "nombre": "Ya! Base Líquida 2 en 1 Mediano",
+    "id": 99,
+    "nombre": "Collar Alería",
     "unidades": 0,
-    "precioBase": 16.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/100.png",
-    "codigo": "20013230",
-    "categoria": "Tratamiento"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/99.png"
+  },
+  {
+    "id": 100,
+    "nombre": "Pendientes Alería",
+    "unidades": 0,
+    "precioBase": 20.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/100.png"
   },
   {
     "id": 101,
-    "nombre": "Collar Alería",
+    "nombre": "Pulsera Alería Doré",
     "unidades": 0,
-    "precioBase": 35.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/101.png",
-    "codigo": "25039514",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/101.png"
   },
   {
     "id": 102,
-    "nombre": "Pendientes Alería",
+    "nombre": "Pendientes Alería Blanc",
     "unidades": 0,
-    "precioBase": 18.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/102.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/102.png"
   },
   {
     "id": 103,
-    "nombre": "Pulsera Alería Doré",
+    "nombre": "Colección Alería Flor",
     "unidades": 0,
-    "precioBase": 24.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/103.png",
-    "codigo": "25038190",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/103.png"
   },
   {
     "id": 104,
-    "nombre": "Pendientes Alería Blanc",
-    "unidades": 0,
-    "precioBase": 18.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/104.png",
-    "codigo": "25039441",
-    "categoria": "Joyería"
-  },
-  {
-    "id": 105,
-    "nombre": "Colección Alería Flor",
-    "unidades": 0,
-    "precioBase": 42.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/105.png",
-    "codigo": "20013713",
-    "categoria": "Joyería"
-  },
-  {
-    "id": 106,
     "nombre": "Pendientes Alería Flor Cristal",
     "unidades": 0,
     "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/106.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/104.png"
+  },
+  {
+    "id": 105,
+    "nombre": "Collar Alería Flor",
+    "unidades": 0,
+    "precioBase": 20.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/105.png"
+  },
+  {
+    "id": 106,
+    "nombre": "Pendientes Alería Doré Climber",
+    "unidades": 0,
+    "precioBase": 20.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/106.png"
   },
   {
     "id": 107,
-    "nombre": "Collar Alería Flor",
+    "nombre": "Aros Prisma",
     "unidades": 0,
-    "precioBase": 32.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/107.png",
-    "codigo": "25039514",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/107.png"
   },
   {
     "id": 108,
-    "nombre": "Pendientes Alería Doré Climber",
+    "nombre": "Gargantilla Prisma",
     "unidades": 0,
-    "precioBase": 22.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/108.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/108.png"
   },
   {
     "id": 109,
-    "nombre": "Aros Prisma",
+    "nombre": "Pendientes Prisma",
     "unidades": 0,
-    "precioBase": 28.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/109.png",
-    "codigo": "25039264",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/109.png"
   },
   {
     "id": 110,
-    "nombre": "Gargantilla Prisma",
+    "nombre": "Set Pendientes Prisma Doré",
     "unidades": 0,
-    "precioBase": 48.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/110.png",
-    "codigo": "25039264",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/110.png"
   },
   {
     "id": 111,
-    "nombre": "Pendientes Prisma",
+    "nombre": "Collar Prisma",
     "unidades": 0,
-    "precioBase": 18.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/111.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/111.png"
   },
   {
     "id": 112,
-    "nombre": "Set Pendientes Prisma Doré",
+    "nombre": "Colección Prisma Sage",
     "unidades": 0,
-    "precioBase": 24.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/112.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/112.png"
   },
   {
     "id": 113,
-    "nombre": "Collar Prisma",
+    "nombre": "Collar Prisma Sage",
     "unidades": 0,
-    "precioBase": 35.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/113.png",
-    "codigo": "25038374",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/113.png"
   },
   {
     "id": 114,
-    "nombre": "Colección Prisma Sage",
+    "nombre": "Pendientes Prisma Sage",
     "unidades": 0,
-    "precioBase": 45.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/114.png",
-    "codigo": "25039264",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/114.png"
   },
   {
     "id": 115,
-    "nombre": "Collar Prisma Sage",
+    "nombre": "Collar Prisma Blu",
     "unidades": 0,
-    "precioBase": 32.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/115.png",
-    "codigo": "25037994",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/115.png"
   },
   {
     "id": 116,
-    "nombre": "Pendientes Prisma Sage",
+    "nombre": "Pendientes Prisma Cristal",
     "unidades": 0,
-    "precioBase": 18.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/116.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/116.png"
   },
   {
     "id": 117,
-    "nombre": "Collar Prisma Blu",
+    "nombre": "Collar Gémina",
     "unidades": 0,
-    "precioBase": 32.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/117.png",
-    "codigo": "25037994",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/117.png"
   },
   {
     "id": 118,
-    "nombre": "Pendientes Prisma Cristal",
+    "nombre": "Aros Gémina",
     "unidades": 0,
-    "precioBase": 18.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/118.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/118.png"
   },
   {
     "id": 119,
-    "nombre": "Collar Gémina",
+    "nombre": "Aros Gémina Cristal",
     "unidades": 0,
-    "precioBase": 36.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/119.png",
-    "codigo": "25039514",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/119.png"
   },
   {
     "id": 120,
-    "nombre": "Aros Gémina",
+    "nombre": "Sortija Gémina",
     "unidades": 0,
-    "precioBase": 22.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/120.png",
-    "codigo": "25039264",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/120.png"
   },
   {
     "id": 121,
-    "nombre": "Aros Gémina Cristal",
+    "nombre": "Collar Classic Doré",
     "unidades": 0,
-    "precioBase": 24.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/121.png",
-    "codigo": "25038374",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/121.png"
   },
   {
     "id": 122,
-    "nombre": "Sortija Gémina",
+    "nombre": "Dije Dorezzi",
     "unidades": 0,
-    "precioBase": 26.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/122.png",
-    "codigo": "25037178",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/122.png"
   },
   {
     "id": 123,
-    "nombre": "Collar Classic Doré",
+    "nombre": "Pendientes Zirconi Dorezzi",
     "unidades": 0,
-    "precioBase": 30.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/123.png",
-    "codigo": "25039514",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/123.png"
   },
   {
     "id": 124,
-    "nombre": "Dije Dorezzi",
-    "unidades": 0,
-    "precioBase": 18.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/124.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
-  },
-  {
-    "id": 125,
-    "nombre": "Pendientes Zirconi Dorezzi",
-    "unidades": 0,
-    "precioBase": 15.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/125.png",
-    "codigo": "25039583",
-    "categoria": "Joyería"
-  },
-  {
-    "id": 126,
     "nombre": "Pendientes Zirconi Platinium",
     "unidades": 0,
-    "precioBase": 16.0,
+    "precioBase": 20.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/126.png",
-    "codigo": "25039441",
-    "categoria": "Joyería"
+    "categoria": "Joyería",
+    "imagenUrl": "imagenes/124.png"
   },
   {
     "id": 127,
