@@ -505,7 +505,7 @@
     "imagenUrl": "imagenes/38.png",
     "codigo": "20013276",
     "categoria": "Maquillaje",
-    "limpiar_fondo": true
+    "limpiar_fondo": false
   },
   {
     "id": 39,
@@ -565,7 +565,7 @@
         "imagenUrl": "imagenes/40.png"
       }
     ],
-    "limpiar_fondo": false
+    "limpiar_fondo": true
   },
   {
     "id": 48,
@@ -1325,7 +1325,7 @@
     "imagenUrl": "imagenes/125.png",
     "codigo": "20013122",
     "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "limpiar_fondo": true
   },
   {
     "id": 126,
@@ -1385,7 +1385,7 @@
     "imagenUrl": "imagenes/130.png",
     "codigo": "20014202",
     "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "limpiar_fondo": true
   },
   {
     "id": 131,
@@ -1481,7 +1481,7 @@
     "imagenUrl": "imagenes/138.png",
     "codigo": "20013981",
     "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "limpiar_fondo": true
   },
   {
     "id": 139,
@@ -1505,6 +1505,6 @@
     "imagenUrl": "imagenes/140.png",
     "codigo": "20014477",
     "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "limpiar_fondo": true
   }
 ]
