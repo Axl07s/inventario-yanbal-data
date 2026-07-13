@@ -8,8 +8,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/1.png",
     "codigo": "25038190",
-    "categoria": "Joyería",
-    "limpiar_fondo": false
+    "categoria": "Joyería"
   },
   {
     "id": 2,
@@ -20,8 +19,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/2.png",
     "codigo": "25039583",
-    "categoria": "Joyería",
-    "limpiar_fondo": false
+    "categoria": "Joyería"
   },
   {
     "id": 3,
@@ -50,8 +48,7 @@
         "codigo": "20013366",
         "imagenUrl": "imagenes/302.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 4,
@@ -62,8 +59,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/4.png",
     "codigo": "20013713",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 5,
@@ -74,8 +70,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/5.png",
     "codigo": "20012404",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 6,
@@ -86,8 +81,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/6.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 7,
@@ -98,8 +92,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/7.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 8,
@@ -110,8 +103,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/8.png",
     "codigo": "20013713",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 9,
@@ -122,8 +114,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/9.png",
     "codigo": "20013641",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
     "id": 10,
@@ -134,8 +125,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/10.png",
     "codigo": "20014484",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 11,
@@ -146,8 +136,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/11.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 12,
@@ -158,8 +147,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/12.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 13,
@@ -170,8 +158,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/13.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 14,
@@ -182,8 +169,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/14.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 15,
@@ -194,8 +180,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/15.png",
     "codigo": "20013710",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 16,
@@ -206,8 +191,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/16.png",
     "codigo": "20014081",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 17,
@@ -218,8 +202,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/17.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 18,
@@ -230,8 +213,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/18.png",
     "codigo": "20013714",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 19,
@@ -242,8 +224,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/19.png",
     "codigo": "20013901",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 20,
@@ -254,8 +235,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/20.png",
     "codigo": "20013368",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 21,
@@ -266,8 +246,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/21.png",
     "codigo": "20013368",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 22,
@@ -278,8 +257,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/22.png",
     "codigo": "20013368",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 23,
@@ -302,8 +280,7 @@
         "codigo": "20014031",
         "imagenUrl": "imagenes/23.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 24,
@@ -326,8 +303,7 @@
         "codigo": "20014034",
         "imagenUrl": "imagenes/24.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 25,
@@ -338,8 +314,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/25.png",
     "codigo": "20012193",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 26,
@@ -350,8 +325,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/26.png",
     "codigo": "20012404",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 27,
@@ -362,8 +336,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/27.png",
     "codigo": "20012404",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 28,
@@ -374,8 +347,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/28.png",
     "codigo": "20012404",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 29,
@@ -386,8 +358,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/29.png",
     "codigo": "20012404",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 30,
@@ -398,8 +369,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/30.png",
     "codigo": "20013713",
-    "categoria": "Tratamiento",
-    "limpiar_fondo": false
+    "categoria": "Tratamiento"
   },
   {
     "id": 31,
@@ -409,8 +379,7 @@
     "descuento": 0,
     "esRegalo": false,
     "imagenUrl": "imagenes/31.png",
-    "codigo": "20013230",
-    "limpiar_fondo": false
+    "codigo": "20013230"
   },
   {
     "id": 32,
@@ -420,8 +389,7 @@
     "descuento": 0,
     "esRegalo": false,
     "imagenUrl": "imagenes/32.png",
-    "codigo": "20013230",
-    "limpiar_fondo": false
+    "codigo": "20013230"
   },
   {
     "id": 33,
@@ -432,8 +400,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/301.png",
     "codigo": "20013366",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 34,
@@ -468,8 +435,7 @@
         "codigo": "20013366",
         "imagenUrl": "imagenes/34.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 35,
@@ -480,8 +446,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/35.png",
     "codigo": "20013713",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 37,
@@ -492,8 +457,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/37.png",
     "codigo": "20013713",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 38,
@@ -504,8 +468,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/38.png",
     "codigo": "20013276",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 39,
@@ -516,8 +479,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/39.png",
     "codigo": "20013713",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 40,
@@ -564,8 +526,7 @@
         "codigo": "20013901",
         "imagenUrl": "imagenes/40.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 48,
@@ -636,8 +597,7 @@
         "codigo": "20013366",
         "imagenUrl": "imagenes/48.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 57,
@@ -720,8 +680,7 @@
         "codigo": "20013368",
         "imagenUrl": "imagenes/57.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 63,
@@ -732,8 +691,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/63.png",
     "codigo": "20013414",
-    "categoria": "Manicura",
-    "limpiar_fondo": false
+    "categoria": "Manicura"
   },
   {
     "id": 64,
@@ -744,8 +702,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/64.png",
     "codigo": "20013713",
-    "categoria": "Manicura",
-    "limpiar_fondo": false
+    "categoria": "Manicura"
   },
   {
     "id": 75,
@@ -888,8 +845,7 @@
         "codigo": "20013414",
         "imagenUrl": "imagenes/75.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 86,
@@ -900,8 +856,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/86.png",
     "codigo": "20013374",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 87,
@@ -912,8 +867,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/87.png",
     "codigo": "20013374",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 88,
@@ -924,8 +878,7 @@
     "esRegalo": false,
     "imagenUrl": "imagenes/88.png",
     "codigo": "20013374",
-    "categoria": "Maquillaje",
-    "limpiar_fondo": false
+    "categoria": "Maquillaje"
   },
   {
     "id": 91,
@@ -966,8 +919,7 @@
         "codigo": "20013414",
         "imagenUrl": "imagenes/91_fucsia.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 95,
@@ -996,8 +948,7 @@
         "codigo": "20013713",
         "imagenUrl": "imagenes/95_coral.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 98,
@@ -1026,8 +977,7 @@
         "codigo": "20013713",
         "imagenUrl": "imagenes/98.png"
       }
-    ],
-    "limpiar_fondo": false
+    ]
   },
   {
     "id": 99,
@@ -1037,8 +987,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/99.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/99.png"
   },
   {
     "id": 100,
@@ -1048,8 +997,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/100.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/100.png"
   },
   {
     "id": 101,
@@ -1059,8 +1007,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/101.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/101.png"
   },
   {
     "id": 102,
@@ -1070,8 +1017,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/102.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/102.png"
   },
   {
     "id": 103,
@@ -1081,8 +1027,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/103.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/103.png"
   },
   {
     "id": 104,
@@ -1092,8 +1037,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/104.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/104.png"
   },
   {
     "id": 105,
@@ -1103,8 +1047,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/105.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/105.png"
   },
   {
     "id": 106,
@@ -1114,8 +1057,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/106.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/106.png"
   },
   {
     "id": 107,
@@ -1125,8 +1067,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/107.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/107.png"
   },
   {
     "id": 108,
@@ -1136,8 +1077,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/108.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/108.png"
   },
   {
     "id": 109,
@@ -1147,8 +1087,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/109.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/109.png"
   },
   {
     "id": 110,
@@ -1158,8 +1097,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/110.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/110.png"
   },
   {
     "id": 111,
@@ -1169,8 +1107,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/111.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/111.png"
   },
   {
     "id": 112,
@@ -1180,8 +1117,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/112.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/112.png"
   },
   {
     "id": 113,
@@ -1191,8 +1127,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/113.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/113.png"
   },
   {
     "id": 114,
@@ -1202,8 +1137,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/114.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/114.png"
   },
   {
     "id": 115,
@@ -1213,8 +1147,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/115.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/115.png"
   },
   {
     "id": 116,
@@ -1224,8 +1157,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/116.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/116.png"
   },
   {
     "id": 117,
@@ -1235,8 +1167,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/117.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/117.png"
   },
   {
     "id": 118,
@@ -1246,8 +1177,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/118.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/118.png"
   },
   {
     "id": 119,
@@ -1257,8 +1187,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/119.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/119.png"
   },
   {
     "id": 120,
@@ -1268,8 +1197,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/120.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/120.png"
   },
   {
     "id": 121,
@@ -1279,8 +1207,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/121.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/121.png"
   },
   {
     "id": 122,
@@ -1290,8 +1217,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/122.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/122.png"
   },
   {
     "id": 123,
@@ -1301,8 +1227,7 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/123.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/123.png"
   },
   {
     "id": 124,
@@ -1312,199 +1237,182 @@
     "descuento": 0,
     "esRegalo": false,
     "categoria": "Joyería",
-    "imagenUrl": "imagenes/124.png",
-    "limpiar_fondo": true
+    "imagenUrl": "imagenes/124.png"
   },
   {
-    "id": 127,
+    "id": 125,
     "nombre": "Osadía Infinita Eau de Parfum",
     "unidades": 0,
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/127.png",
+    "imagenUrl": "imagenes/125.png",
     "codigo": "20013122",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 128,
+    "id": 126,
     "nombre": "Cielo Eau de Parfum",
     "unidades": 0,
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/128.png",
+    "imagenUrl": "imagenes/126.png",
     "codigo": "20013641",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 129,
+    "id": 127,
     "nombre": "Temptation Eau de Parfum",
     "unidades": 0,
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/129.png",
+    "imagenUrl": "imagenes/127.png",
     "codigo": "20013641",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 130,
+    "id": 128,
     "nombre": "Gaïa Elixir Parfum",
     "unidades": 0,
     "precioBase": 58.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/130.png",
+    "imagenUrl": "imagenes/128.png",
     "codigo": "20013981",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 131,
+    "id": 129,
     "nombre": "Adrenaline Eau de Toilette",
     "unidades": 0,
     "precioBase": 35.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/131.png",
+    "imagenUrl": "imagenes/129.png",
     "codigo": "20012404",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 132,
+    "id": 130,
     "nombre": "Di Que Sí Eau de Parfum",
     "unidades": 0,
     "precioBase": 38.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/132.png",
+    "imagenUrl": "imagenes/130.png",
     "codigo": "20014202",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
+  },
+  {
+    "id": 131,
+    "nombre": "Soy Poderosa Colonia",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "imagenes/131.png",
+    "codigo": "YA001375",
+    "categoria": "Perfumería"
+  },
+  {
+    "id": 132,
+    "nombre": "Soy Glow Colonia",
+    "unidades": 0,
+    "precioBase": 22.0,
+    "descuento": 0,
+    "esRegalo": false,
+    "imagenUrl": "imagenes/132.png",
+    "codigo": "YA001375",
+    "categoria": "Perfumería"
   },
   {
     "id": 133,
-    "nombre": "Soy Poderosa Colonia",
+    "nombre": "Soy Única Colonia",
     "unidades": 0,
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
     "imagenUrl": "imagenes/133.png",
     "codigo": "YA001375",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
     "id": 134,
-    "nombre": "Soy Glow Colonia",
+    "nombre": "Soy Sexy Colonia",
     "unidades": 0,
     "precioBase": 22.0,
     "descuento": 0,
     "esRegalo": false,
     "imagenUrl": "imagenes/134.png",
     "codigo": "YA001375",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
     "id": 135,
-    "nombre": "Soy Única Colonia",
-    "unidades": 0,
-    "precioBase": 22.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/135.png",
-    "codigo": "YA001375",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
-  },
-  {
-    "id": 136,
-    "nombre": "Soy Sexy Colonia",
-    "unidades": 0,
-    "precioBase": 22.0,
-    "descuento": 0,
-    "esRegalo": false,
-    "imagenUrl": "imagenes/136.png",
-    "codigo": "YA001375",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
-  },
-  {
-    "id": 137,
     "nombre": "Ohm Now Parfum",
     "unidades": 0,
     "precioBase": 55.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/137.png",
+    "imagenUrl": "imagenes/135.png",
     "codigo": "20014225",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 138,
+    "id": 136,
     "nombre": "Ohm Parfum",
     "unidades": 0,
     "precioBase": 55.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/138.png",
+    "imagenUrl": "imagenes/136.png",
     "codigo": "20014225",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 139,
+    "id": 137,
     "nombre": "Arom Absolute Eau de Parfum",
     "unidades": 0,
     "precioBase": 42.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/139.png",
+    "imagenUrl": "imagenes/137.png",
     "codigo": "20013581",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 140,
+    "id": 138,
     "nombre": "Solo Elixir Parfum",
     "unidades": 0,
     "precioBase": 50.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/140.png",
+    "imagenUrl": "imagenes/138.png",
     "codigo": "20013981",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 141,
+    "id": 139,
     "nombre": "Temptation Black Eau de Parfum",
     "unidades": 0,
     "precioBase": 45.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/141.png",
+    "imagenUrl": "imagenes/139.png",
     "codigo": "20013411",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   },
   {
-    "id": 142,
+    "id": 140,
     "nombre": "Desodorante Perfumado Temptation Black",
     "unidades": 0,
     "precioBase": 8.0,
     "descuento": 0,
     "esRegalo": false,
-    "imagenUrl": "imagenes/142.png",
+    "imagenUrl": "imagenes/140.png",
     "codigo": "20014477",
-    "categoria": "Perfumería",
-    "limpiar_fondo": false
+    "categoria": "Perfumería"
   }
 ]
